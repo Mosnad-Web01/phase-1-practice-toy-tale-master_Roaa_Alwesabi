@@ -59,6 +59,25 @@
       "name": "Jessie",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfnMx2D_lYA_yaN39JyRZpv0sAqGG7iXOwyg&s",
       "likes": 1
+    },
+    {
+      "id": "0947",
+      "name": "Lots-o'-Huggin",
+      "image": "https://static.wikia.nocookie.net/new-toy-story/images/4/49/A61F0EF0-83A8-4E0D-B616-2E1ECE5C9062.png/revision/latest?cb=20201127022324",
+      "likes": 3
+    },
+    {
+      "id": "a76a",
+      "name": "Zurg",
+      "image": "https://static.wikia.nocookie.net/toystory72/images/3/34/Evil_Emperor_Zurg.png/revision/latest?cb=20220105174135",
+      "likes": 0
+    },
+    {
+      "id": "52fb",
+      "name": "Lots-o'-Huggin",
+      "image": "https://static.wikia.nocookie.net/new-toy-story/images/4/49/A61F0EF0-83A8-4E0D-B616-2E1ECE5C9062.png/revision/latest?cb=20201127022324",
+      "likes": 0,
+      "isUserAdded": true
     }
   ]
 }
